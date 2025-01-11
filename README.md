@@ -1,11 +1,11 @@
 <h2 align="left">Hi there👋 , I'm ISAAC!</h2>
 
 ### 
-<p>
-I'm passionate about:
+<div>
+<p>I'm a: </p>
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=500&color=299DF7&center=true&vCenter=true&width=445&lines=Frontend+Engineering;Blockchain;Web3+;Mathematics" alt="Typing SVG" /></a>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=500&color=299DF7&center=true&vCenter=true&width=445&lines=Frontend+Developer;Web3+Enthusiast;Mathematics+Student" alt="Typing SVG" /></a>
+</div>
 
 ###
 
