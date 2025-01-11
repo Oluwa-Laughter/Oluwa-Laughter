@@ -1,44 +1,33 @@
-<h2 align="left">Hi there👋,</h2>
-###
-<h1 align="center">I'm ISAAC!</h1>
+<h2 align="left">Hi there👋, I'm Isaac!</h2>
 <p align="left">Welcome to my GitHub profile!</p>
-<div align="left">
-<p align="left">I'm a:</p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=500&color=299DF7&center=true&vCenter=true&width=445&lines=Frontend+Developer;Web3+Enthusiast;Mathematics+Student" alt="Typing SVG" /></a>
+
+<div>
+<p align="left">My Interest are:</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=500&color=299DF7&center=true&vCenter=true&width=445&lines=Frontend;Web3;Blockchain;Mathematics" alt="Typing SVG" /></a>
 </div>
 
+<p align="left">🎯 I'm passionate about crafting user-friendly interfaces, developing decentralized applications and leveraging my math background to solve real-world problems.</p>
 
-<p align="left">I'm passionate about crafting user-friendly interfaces, developing decentralized applications and leveraging my math background to solve real-world problems.</p>
-
-<p align="left">I’m on a journey to master full-stack development with a special focus on Web3 and Blockchain technologies.</p>
-
-###
+<p align="left">🚀 I’m on a journey to master full-stack development with a special focus on Web3 and Blockchain technologies.</p>
 
 <div align="center">
   <img height="200" src="https://camo.githubusercontent.com/0499a9d17248b0ef56dae9a63b09b16cc07d7a02f579fdc0a7cb81975dafbebb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966"  />
 </div>
 
-###
-
 <h3 align="left">🌟 What I'm currently up to:</h3>
 
-###
 
 <p align="left">🌱 Learning advanced ReactJS concepts and building projects to sharpen my Frontend skills.</p>
 
-###
 
 <p align="left">🚀 Exploring the world of Web3 and Blockchain Technology.</p>
 
-###
+
 
 <h3 align="left">🚀 My Goals:</h3>
 
-###
 
 <p align="left">📚 Master the fundamentals of frontend development for decentralized applications (dApps).</p>
-
-###
 
 <p align="left">🛠️ Build more personal projects to deepen my understanding of Web3, blockchain, and smart contracts.</p>
 
