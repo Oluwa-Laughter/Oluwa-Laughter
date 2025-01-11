@@ -1,15 +1,16 @@
-<h2 align="left">Hi there👋 , I'm ISAAC!</h2>
-
-### 
-<div>
-<p>I'm a: </p>
-  
+<h2 align="left">Hi there👋,</h2>
+###
+<h1 align="center">I'm ISAAC!</h1>
+<p align="left">Welcome to my GitHub profile!</p>
+<div align="left">
+<p align="left">I'm a:</p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=500&color=299DF7&center=true&vCenter=true&width=445&lines=Frontend+Developer;Web3+Enthusiast;Mathematics+Student" alt="Typing SVG" /></a>
 </div>
 
-###
 
-<p align="left">Welcome to my GitHub profile!<br><br>I'm passionate about crafting user-friendly interfaces, developing decentralized applications and leveraging my math background to solve real-world problems.  <br><br>I’m on a journey to master full-stack development with a special focus on Web3 and Blockchain technologies.</p>
+<p align="left">I'm passionate about crafting user-friendly interfaces, developing decentralized applications and leveraging my math background to solve real-world problems.</p>
+
+<p align="left">I’m on a journey to master full-stack development with a special focus on Web3 and Blockchain technologies.</p>
 
 ###
 
