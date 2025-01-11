@@ -1,5 +1,5 @@
 <h2 align="left">Hi there👋, I'm Isaac!</h2>
-<p align="left">Welcome to my GitHub profile!</p>
+<h4 align="left">Welcome to my GitHub profile!</h4>
 
 <div>
 <p align="left">My Interest are:</p>
@@ -31,8 +31,6 @@
 
 <p align="left">🛠️ Build more personal projects to deepen my understanding of Web3, blockchain, and smart contracts.</p>
 
-###
-
 <p align="left">🌍 Contribute to open source projects to collaborate with developers across the globe.</p>
 
 ###
@@ -59,7 +57,7 @@
 
 ###
 
-<h3 align="left">Core Programming Languages:</h3>
+<h3 align="left">💻 Core Programming Languages:</h3>
 
 ###
 
@@ -81,7 +79,7 @@
 
 ###
 
-<h3 align="left">Frameworks/Libraries I Use:</h3>
+<h3 align="left">🎯 Frameworks/Libraries I Use:</h3>
 
 ###
 
@@ -103,7 +101,7 @@
 
 ###
 
-<h3 align="left">Tools I Use:</h3>
+<h3 align="left">⚒️ Tools I Use:</h3>
 
 ###
 
@@ -126,13 +124,6 @@
 ###
 
 <h3 align="left">Lifestyle:</h3>
-
-###
-
-[![Github Streak](https://github-readme-streak-stats.herokuapp.com?user=Oluwa-Laughter&theme=react&border_radius=6&date_format=j%20M%5B%20Y%5D&card_width=490&background=000000)](https://git.io/streak-stats)
-
-###
-
 ![pc](https://user-images.githubusercontent.com/105937740/186015907-bd8b7db8-f875-454b-bf1a-36177129aa42.gif)
 
 ###
