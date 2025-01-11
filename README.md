@@ -2,7 +2,7 @@
 
 ### 
 <p>
-I'm all about:
+I'm passionate about:
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=500&color=299DF7&center=true&vCenter=true&width=445&lines=Frontend+Engineering;Blockchain;Web3+;Mathematics" alt="Typing SVG" /></a>
 </p>
@@ -136,6 +136,10 @@ I'm all about:
 ###
 
 <h3 align="left">Lifestyle:</h3>
+
+###
+
+[![Github Streak](https://github-readme-streak-stats.herokuapp.com?user=Oluwa-Laughter&theme=react&border_radius=6&date_format=j%20M%5B%20Y%5D&card_width=490&background=000000)](https://git.io/streak-stats)
 
 ###
 
