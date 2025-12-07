@@ -1,43 +1,45 @@
 <h2 align="left">Hi there👋, I'm Isaac!</h2>
-<h4 align="left">Welcome to my GitHub profile!</h4>
+<h4 align="left">Welcome to my Github Profile</h4>
 
 <div>
-<p align="left">My Interest are:</p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=500&color=299DF7&center=true&vCenter=true&width=445&lines=Frontend;Web3;Blockchain;Mathematics" alt="Typing SVG" /></a>
+  <p align="left">My core focus areas:</p>
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=500&color=299DF7&center=true&vCenter=true&width=600&lines=Frontend+Engineering;Blockchain+Development;Smart+Contracts+Development;Smart+Contracts+Security;Web3+Applications;Mathematics" 
+      alt="Typing SVG" 
+    />
+  </a>
 </div>
 
-<p align="left">🎯 I'm passionate about crafting user-friendly interfaces, developing decentralized applications and leveraging my math background to solve real-world problems.</p>
+<p align="left">
+  🎯 I'm a Frontend Engineer with strong experience in building modern, scalable web applications. I’m currently expanding my skill set into Blockchain development and Smart Contract engineering using Solidity while leveraging my math background to solve real-world problems.
+</p>
 
-<p align="left">🚀 I’m on a journey to master full-stack development with a special focus on Web3 and Blockchain technologies.</p>
+<p align="left">
+  🚀 My long-term goal is to become a full Web3 Engineer capable of building secure, production-ready decentralized applications.
+</p>
 
 <div align="center">
   <img height="200" src="https://camo.githubusercontent.com/0499a9d17248b0ef56dae9a63b09b16cc07d7a02f579fdc0a7cb81975dafbebb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966"  />
 </div>
 
-<h3 align="left">🌟 What I'm currently up to:</h3>
+<h3 align="left">🌱 What I'm currently focused on:</h3>
+
+<p align="left">✅ Writing Smart Contracts with Solidity</p>
+<p align="left">✅ Learning Smart Contract Security & Testing</p>
+<p align="left">✅ Building Web3 full-stack projects</p>
+<p align="left">✅ Integrating Blockchain with React Frontends</p>
+
+<h3 align="left">🎯 Goals:</h3>
+
+<p align="left">📚 Master Smart Contract Development & Security</p>
+<p align="left">🛠️ Build real decentralized applications (dApps)</p>
+<p align="left">🌍 Contribute to open-source Blockchain projects</p>
+<p align="left">🔗 Become a full Web3 & Blockchain Engineer</p>
+
+<h3 align="left">🔗 Connect with me:</h3>
 
 
-<p align="left">🌱 Learning advanced ReactJS concepts and building projects to sharpen my Frontend skills.</p>
-
-
-<p align="left">🚀 Exploring the world of Web3 and Blockchain Technology.</p>
-
-
-
-<h3 align="left">🚀 My Goals:</h3>
-
-
-<p align="left">📚 Master the fundamentals of frontend development for decentralized applications (dApps).</p>
-
-<p align="left">🛠️ Build more personal projects to deepen my understanding of Web3, blockchain, and smart contracts.</p>
-
-<p align="left">🌍 Contribute to open source projects to collaborate with developers across the globe.</p>
-
-###
-
-<h3 align="left">Connect with me on:</h3>
-
-###
 
 <div align="center">
   <a href="https://wa.me/2348053744603" target="_blank">
@@ -51,90 +53,67 @@
   </a>
 </div>
 
-###
 
-<h3 align="left">💻 Core Programming Languages:</h3>
-
-###
+<h3 align="left">💻 Core Languages (Experienced):</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
 </div>
 
-###
-
-<h3 align="left">🎯 Frameworks/Libraries I Use:</h3>
-
-###
+<h3 align="left">⛓️ Blockchain & Web3 (Active Learning & Building):</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=026" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo" />
 </div>
 
-###
-
-<h3 align="left">⚒️ Tools I Use:</h3>
-
-###
+<h3 align="left">⚛️ Frameworks & Libraries:</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" height="40" />
+  <img width="12" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo" />
 </div>
 
-###
+<h3 align="left">⚒️ Tools & Platforms:</h3>
 
-<h3 align="left">🔥 Activities / Stats :</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" />
+</div>
 
-###
+<!-- <h3 align="left">🔥 GitHub Stats:</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Oluwa-Laughter&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Oluwa-Laughter&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-<!--   <img src="https://streak-stats.demolab.com?user=Oluwa-Laughter&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Oluwa-Laughter&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Oluwa-Laughter&show_icons=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Oluwa-Laughter&layout=compact&theme=dracula" height="150" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Oluwa-Laughter&theme=react&area=true" height="300" />
+</div> -->
 
-###
-
-<h3 align="left">Lifestyle:</h3>
-
+<h3 align="left">💻 Lifestyle:</h3>
 
 ![pc](https://user-images.githubusercontent.com/105937740/186015907-bd8b7db8-f875-454b-bf1a-36177129aa42.gif)
-
-###
