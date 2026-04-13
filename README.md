@@ -12,23 +12,20 @@
 </div>
 
 <p align="left">
-  🎯 I'm a Frontend Engineer with strong experience in building modern, scalable web applications. I’m currently expanding my skill set into Blockchain development and Smart Contract engineering using Solidity while leveraging my math background to solve real-world problems.
+  🎯 I'm a Frontend Engineer with strong experience in building modern, scalable web applications. I'm currently expanding my skill set into Blockchain development and Smart Contract engineering using Solidity while leveraging my math background to solve real-world problems.
 </p>
 
 <p align="left">
   🚀 My long-term goal is to become a full Web3 Engineer capable of building secure, production-ready decentralized applications.
 </p>
 
-<div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/0499a9d17248b0ef56dae9a63b09b16cc07d7a02f579fdc0a7cb81975dafbebb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966"  />
-</div>
 
 <h3 align="left">🌱 What I'm currently focused on:</h3>
 
 <p align="left">✅ Writing Smart Contracts with Solidity</p>
 <p align="left">✅ Learning Smart Contract Security & Testing</p>
 <p align="left">✅ Building Web3 full-stack projects</p>
-<p align="left">✅ Integrating Blockchain with React Frontends</p>
+<p align="left">✅ Integrating Blockchain to frameworks</p>
 
 <h3 align="left">🎯 Goals:</h3>
 
@@ -38,8 +35,6 @@
 <p align="left">🔗 Become a full Web3 & Blockchain Engineer</p>
 
 <h3 align="left">🔗 Connect with me:</h3>
-
-
 
 <div align="center">
   <a href="https://wa.me/2348053744603" target="_blank">
@@ -52,7 +47,6 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="twitter logo"  />
   </a>
 </div>
-
 
 <h3 align="left">💻 Core Languages (Experienced):</h3>
 
@@ -106,14 +100,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" />
 </div>
 
-<!-- <h3 align="left">🔥 GitHub Stats:</h3>
+<h3 align="left">🔥 GitHub Stats:</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Oluwa-Laughter&show_icons=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Oluwa-Laughter&layout=compact&theme=dracula" height="150" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Oluwa-Laughter&theme=react&area=true" height="300" />
-</div> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oluwa-Laughter&theme=tokyonight&hide_border=true&background=0D1117&ring=299DF7&fire=299DF7&currStreakLabel=299DF7" height="170" />
+</div>
 
-<h3 align="left">💻 Lifestyle:</h3>
+<br/>
 
-![pc](https://user-images.githubusercontent.com/105937740/186015907-bd8b7db8-f875-454b-bf1a-36177129aa42.gif)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Oluwa-Laughter&style=for-the-badge&color=299DF7" alt="Profile views" />
+</div>
