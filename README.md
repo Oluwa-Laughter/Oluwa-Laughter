@@ -6,9 +6,10 @@
 
 **Building secure smart contracts and practical on-chain products.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Oluwa--Laughter-181717?style=for-the-badge&logo=github)](https://github.com/Oluwa-Laughter)
+[![Telegram](https://img.shields.io/badge/Telegram-@isaacmakinde-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/isaacmakinde)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Isaac%20Makinde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaacmakinde/)
 [![X](https://img.shields.io/badge/X-@isaacmakinde__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/isaacmakinde_)
+[![Email](https://img.shields.io/badge/Email-ismakinde%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ismakinde@gmail.com)
 
 </div>
 
@@ -47,6 +48,8 @@ My background in **Mathematics** shaped the way I approach software: breaking co
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
@@ -105,9 +108,10 @@ I'm particularly interested in ecosystems working on **privacy, decentralized in
 
 I'm open to collaborating on **smart contracts, DeFi, privacy, blockchain infrastructure, and open-source Web3 projects**.
 
+[![Telegram](https://img.shields.io/badge/Telegram-Message-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/isaacmakinde)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaacmakinde/)
 [![X](https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/isaacmakinde_)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Oluwa-Laughter)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ismakinde@gmail.com)
 
 <br />
 
