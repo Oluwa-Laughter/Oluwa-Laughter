@@ -2,7 +2,7 @@
 
 # Hi, I'm Isaac Makinde 👋
 
-### Blockchain Engineer · Smart Contract Developer
+### Blockchain Engineer 
 
 **Building secure smart contracts and practical on-chain products.**
 
@@ -16,9 +16,9 @@
 
 ## About Me
 
-I'm a **Blockchain Engineer and Smart Contract Developer** focused on building secure, reliable, and useful on-chain systems.
+I'm a **Blockchain Engineer** focused on building secure, reliable, and useful on-chain systems.
 
-My background in **Pure Mathematics** shaped the way I approach software: breaking complex problems into clear structures, reasoning about edge cases, and caring about correctness. I started in frontend engineering and now apply that product mindset to smart contracts, decentralized applications, DeFi, privacy, and blockchain infrastructure.
+My background in **Mathematics** shaped the way I approach software: breaking complex problems into clear structures, reasoning about edge cases, and caring about correctness. I started in frontend engineering and now apply that product mindset to smart contracts, decentralized applications, DeFi, privacy, and blockchain infrastructure.
 
 - 🔐 Building and testing smart contracts with **Solidity + Foundry**
 - ⛓️ Working across **Ethereum/EVM ecosystems** and exploring multi-chain infrastructure
@@ -30,7 +30,7 @@ My background in **Pure Mathematics** shaped the way I approach software: breaki
 
 ## Tech Stack
 
-### Smart Contracts & Blockchain
+### Blockchain & Smart Contracts
 
 <p>
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
@@ -74,12 +74,6 @@ A **confidential zero-loss prize savings protocol** built with Solidity, Foundry
 ### 🛡️ [HashGuard](https://github.com/Oluwa-Laughter/hashguard)
 A programmable payments protocol on **HashKey Chain** featuring protected transfers, non-custodial escrow, batch payments, schedules, and smart-contract-driven payment flows.
 
-### 🤝 [Pactum](https://github.com/Oluwa-Laughter/Pactum)
-An on-chain registry for recurring commitments and verifiable compliance history, combining **Soroban/Rust**, Solidity, zero-knowledge proofs, indexing, and API infrastructure.
-
-### ⚙️ [EVM Contract Suite](https://github.com/Oluwa-Laughter/evm-contract-suite)
-A growing collection of **Solidity + Foundry** smart contract implementations focused on practical EVM patterns, testing, access control, events, and secure contract design.
-
 ---
 
 ## What I'm Exploring
@@ -102,17 +96,6 @@ Smart Contract Engineering
 I enjoy contributing to open-source projects across the Web3 ecosystem, especially where I can improve **developer experience, documentation, reliability, and protocol tooling**.
 
 I'm particularly interested in ecosystems working on **privacy, decentralized infrastructure, smart contracts, and public goods**.
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Oluwa-Laughter&show_icons=true&hide_border=true&theme=transparent" height="165" alt="Isaac's GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Oluwa-Laughter&hide_border=true&theme=transparent" height="165" alt="Isaac's GitHub streak" />
-
-</div>
 
 ---
 
