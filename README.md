@@ -77,6 +77,9 @@ A **confidential zero-loss prize savings protocol** built with Solidity, Foundry
 ### 🛡️ [HashGuard](https://github.com/Oluwa-Laughter/hashguard)
 A programmable payments protocol on **HashKey Chain** featuring protected transfers, non-custodial escrow, batch payments, schedules, and smart-contract-driven payment flows.
 
+### ⚡ [ZPulse](https://github.com/Oluwa-Laughter/zpulse)
+A **Zcash network and shielded-supply intelligence platform** built around the Zcash Foundation's Zebra node, featuring real-time network telemetry, shielded-pool analytics, block exploration, node monitoring, and an interactive JSON-RPC developer toolkit.
+
 ---
 
 ## What I'm Exploring
