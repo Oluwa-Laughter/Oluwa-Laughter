@@ -1,113 +1,133 @@
-<h2 align="left">Hi there👋, I'm Isaac!</h2>
-<h4 align="left">Welcome to my Github Profile</h4>
+<div align="center">
 
-<div>
-  <p align="left">My core focus areas:</p>
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=500&color=299DF7&center=true&vCenter=true&width=600&lines=Frontend+Engineering;Blockchain+Development;Smart+Contracts+Development;Smart+Contracts+Security;Web3+Applications;Mathematics" 
-      alt="Typing SVG" 
-    />
-  </a>
+# Hi, I'm Isaac Makinde 👋
+
+### Blockchain Engineer · Smart Contract Developer
+
+**Building secure smart contracts and practical on-chain products.**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Oluwa--Laughter-181717?style=for-the-badge&logo=github)](https://github.com/Oluwa-Laughter)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Isaac%20Makinde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaacmakinde/)
+[![X](https://img.shields.io/badge/X-@isaacmakinde__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/isaacmakinde_)
+
 </div>
 
-<p align="left">
-  🎯 I'm a Frontend Engineer with strong experience in building modern, scalable web applications. I'm currently expanding my skill set into Blockchain development and Smart Contract engineering using Solidity while leveraging my math background to solve real-world problems.
+---
+
+## About Me
+
+I'm a **Blockchain Engineer and Smart Contract Developer** focused on building secure, reliable, and useful on-chain systems.
+
+My background in **Pure Mathematics** shaped the way I approach software: breaking complex problems into clear structures, reasoning about edge cases, and caring about correctness. I started in frontend engineering and now apply that product mindset to smart contracts, decentralized applications, DeFi, privacy, and blockchain infrastructure.
+
+- 🔐 Building and testing smart contracts with **Solidity + Foundry**
+- ⛓️ Working across **Ethereum/EVM ecosystems** and exploring multi-chain infrastructure
+- 🧪 Interested in **smart contract security, DeFi, cryptography, privacy, and protocol design**
+- 🌍 Contributing to **open-source Web3 projects**
+- 🧩 Bringing frontend experience into dApps with **Next.js, React, TypeScript, Ethers.js, and Web3 tooling**
+
+---
+
+## Tech Stack
+
+### Smart Contracts & Blockchain
+
+<p>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Foundry-1C1C1C?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=ethereum&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" />
 </p>
 
-<p align="left">
-  🚀 My long-term goal is to become a full Web3 Engineer capable of building secure, production-ready decentralized applications.
+### Frontend & dApp Development
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 </p>
 
+### Tools & Platforms
 
-<h3 align="left">🌱 What I'm currently focused on:</h3>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
 
-<p align="left">✅ Writing Smart Contracts with Solidity</p>
-<p align="left">✅ Learning Smart Contract Security & Testing</p>
-<p align="left">✅ Building Web3 full-stack projects</p>
-<p align="left">✅ Integrating Blockchain to frameworks</p>
+---
 
-<h3 align="left">🎯 Goals:</h3>
+## Selected Projects
 
-<p align="left">📚 Master Smart Contract Development & Security</p>
-<p align="left">🛠️ Build real decentralized applications (dApps)</p>
-<p align="left">🌍 Contribute to open-source Blockchain projects</p>
-<p align="left">🔗 Become a full Web3 & Blockchain Engineer</p>
+### 🔐 [Cyvera](https://github.com/Oluwa-Laughter/cyvera)
+A **confidential zero-loss prize savings protocol** built with Solidity, Foundry, Zama fhEVM, and ERC-7984 concepts. It combines DeFi prize savings with privacy-preserving computation on Ethereum Sepolia.
 
-<h3 align="left">🔗 Connect with me:</h3>
+### 🛡️ [HashGuard](https://github.com/Oluwa-Laughter/hashguard)
+A programmable payments protocol on **HashKey Chain** featuring protected transfers, non-custodial escrow, batch payments, schedules, and smart-contract-driven payment flows.
 
-<div align="center">
-  <a href="https://wa.me/2348053744603" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="whatsapp logo"  />
-  </a>
-  <a href="https://linkedin.com/in/isaacmakinde/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/isaacmakinde_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="twitter logo"  />
-  </a>
-</div>
+### 🤝 [Pactum](https://github.com/Oluwa-Laughter/Pactum)
+An on-chain registry for recurring commitments and verifiable compliance history, combining **Soroban/Rust**, Solidity, zero-knowledge proofs, indexing, and API infrastructure.
 
-<h3 align="left">💻 Core Languages (Experienced):</h3>
+### ⚙️ [EVM Contract Suite](https://github.com/Oluwa-Laughter/evm-contract-suite)
+A growing collection of **Solidity + Foundry** smart contract implementations focused on practical EVM patterns, testing, access control, events, and secure contract design.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-</div>
+---
 
-<h3 align="left">⛓️ Blockchain & Web3 (Active Learning & Building):</h3>
+## What I'm Exploring
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=026" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo" />
-</div>
+```text
+Smart Contract Engineering
+├── Solidity & Foundry
+├── Testing, fuzzing & invariants
+├── Smart contract security
+├── DeFi & payment protocols
+├── Privacy-preserving applications
+├── Cryptography & zero-knowledge systems
+└── Blockchain infrastructure
+```
 
-<h3 align="left">⚛️ Frameworks & Libraries:</h3>
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" height="40" />
-  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo" />
-</div>
+## Open Source
 
-<h3 align="left">⚒️ Tools & Platforms:</h3>
+I enjoy contributing to open-source projects across the Web3 ecosystem, especially where I can improve **developer experience, documentation, reliability, and protocol tooling**.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" />
-</div>
+I'm particularly interested in ecosystems working on **privacy, decentralized infrastructure, smart contracts, and public goods**.
 
-<h3 align="left">🔥 GitHub Stats:</h3>
+---
+
+## GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oluwa-Laughter&theme=tokyonight&hide_border=true&background=0D1117&ring=299DF7&fire=299DF7&currStreakLabel=299DF7" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Oluwa-Laughter&show_icons=true&hide_border=true&theme=transparent" height="165" alt="Isaac's GitHub stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Oluwa-Laughter&hide_border=true&theme=transparent" height="165" alt="Isaac's GitHub streak" />
+
 </div>
 
-<br/>
+---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Oluwa-Laughter&style=for-the-badge&color=299DF7" alt="Profile views" />
+
+### Let's Connect
+
+I'm open to collaborating on **smart contracts, DeFi, privacy, blockchain infrastructure, and open-source Web3 projects**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaacmakinde/)
+[![X](https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/isaacmakinde_)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Oluwa-Laughter)
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=Oluwa-Laughter&style=flat-square" alt="Profile views" />
+
 </div>
