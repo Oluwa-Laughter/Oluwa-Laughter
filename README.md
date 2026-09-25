@@ -71,6 +71,10 @@ My background in **Mathematics** shaped the way I approach software: breaking co
 
 ## Selected Projects
 
+### 🟧 [StacksRaise](https://github.com/Oluwa-Laughter/stacksraise)
+A **trustless crowdfunding protocol secured by Bitcoin through Stacks**, built with Clarity and Scaffold Stacks. Campaigns use block-height deadlines, non-custodial STX escrow, fully on-chain project metadata, creator claims for successful raises, and guaranteed contributor refunds when funding goals are missed.
+
+
 ### 🔐 [Cyvera](https://github.com/Oluwa-Laughter/cyvera)
 A **confidential zero-loss prize savings protocol** built with Solidity, Foundry, Zama fhEVM, and ERC-7984 concepts. It combines DeFi prize savings with privacy-preserving computation on Ethereum Sepolia.
 
