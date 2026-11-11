@@ -6,10 +6,10 @@
 
 **Building secure smart contracts and practical on-chain products.**
 
-[![Telegram](https://img.shields.io/badge/Telegram-@isaacmakinde-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/isaacmakinde)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Isaac%20Makinde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaacmakinde/)
-[![X](https://img.shields.io/badge/X-@isaacmakinde__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/isaacmakinde_)
-[![Email](https://img.shields.io/badge/Email-ismakinde%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ismakinde@gmail.com)
+[Telegram](https://t.me/isaacmakinde)
+[LinkedIn](https://linkedin.com/in/isaacmakinde/)
+[X](https://x.com/isaacmakinde_)
+[Email](mailto:ismakinde@gmail.com)
 
 </div>
 
@@ -115,10 +115,10 @@ I'm particularly interested in ecosystems working on **privacy, decentralized in
 
 I'm open to collaborating on **smart contracts, DeFi, privacy, blockchain infrastructure, and open-source Web3 projects**.
 
-[![Telegram](https://img.shields.io/badge/Telegram-Message-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/isaacmakinde)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaacmakinde/)
-[![X](https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/isaacmakinde_)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ismakinde@gmail.com)
+[Telegram](https://t.me/isaacmakinde)
+[LinkedIn](https://linkedin.com/in/isaacmakinde/)
+[X](https://x.com/isaacmakinde_)
+[Email](mailto:ismakinde@gmail.com)
 
 <br />
 
